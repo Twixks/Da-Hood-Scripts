@@ -4,7 +4,7 @@ if not game.IsLoaded(game) then
 end
 
 -- variables 
-local IsA = game.IsA
+local IsA = game.IsA;
 local newindex = nil 
 
 -- main hook
