@@ -1,0 +1,2 @@
+# Scripts for The Hood
+# https://www.roblox.com/games/4753520418/The-Hood
