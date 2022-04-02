@@ -1,4 +1,4 @@
--- init, by xaxa
+-- init, by xaxa (bypasses anti-silent aim too)
 local GetService, IsLoaded, Loaded = game.GetService, game.IsLoaded, game.Loaded; do 
     if not IsLoaded(game) then 
         Loaded.Wait(Loaded);
